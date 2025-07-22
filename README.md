@@ -65,7 +65,6 @@ charges	Medical costs billed by health insurance
 ▶️ How to Run
 Step 1: Clone this repository or download the notebook
 
-git clone https://github.com/yourusername/insurance-cost-prediction.git
 
 Step 2: Install required packages
 
